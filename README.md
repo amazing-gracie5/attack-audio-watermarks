@@ -16,6 +16,6 @@ This attack targets watermarks that require the watermark embedder and extractor
 ## Other Functionality and Details
 This program also prints information on the input file and resulting output file after each attack.
 
-This program utilizes the sound processing library `libsndfile` (found at https://github.com/libsndfile/libsndfile). This code is created as part of the junior independent study project "Attacking Digital Audio Watermarks" by Grace Simonson at the College of Wooster.
+This program utilizes the sound processing library `libsndfile` (found at https://github.com/libsndfile/libsndfile). To compile and run, this library must be installed on the machine running the program. This code is created as part of the junior independent study project "Attacking Digital Audio Watermarks" by Grace Simonson at the College of Wooster.
 
 For to-dos and future work, see open issues and comments in `driver.cpp`.
